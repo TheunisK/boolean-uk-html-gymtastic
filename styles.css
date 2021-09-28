@@ -1,0 +1,119 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.topBox {
+    color: white;
+    background-color: rgb(57, 151, 214);
+    height: 60px;
+    padding: 12px;
+    border: 5px;
+    line-height: 25px;
+    padding-left: 10px;
+}
+
+.line{
+    display: inline-block; 
+    padding-right:50px; 
+    border-style: none;
+    vertical-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.fifty {
+    color:rgb(57, 151, 214);
+}
+
+.middleBox {
+    margin: 25px;
+    margin-bottom: 5px;
+
+}
+.bottomBox {
+    color: white;
+    background-color: rgb(57, 151, 214);
+    height: 200px;
+    padding: 13px;
+    padding-top: 0px;
+
+}
+
+.popBox {
+    padding: 5px;
+    margin: 0px;
+    vertical-align: center;
+    padding-bottom: 5px;
+}
+.line2 {
+    display: inline-block; 
+    padding-right:70px; 
+    border-style: none;
+    vertical-align: center;
+    color: rgb(226, 14, 14);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0px;
+    margin-left: 0px;
+
+}
+.insta {
+    background-color: rgb(161, 33, 235);
+    color: white;
+    width: 50px;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 10px;
+    text-indent: 22px;
+    box-shadow: 2px 2px 2px rgba(85, 75, 75, 0.274);
+    margin-right: 20px;
+
+}
+.facebook {
+    background-color: rgb(30, 80, 216);
+    color: white;
+    width: 50px;
+    height: 40px;
+    margin: 20px;
+    line-height: 40px;
+    border-radius: 10px;
+    text-indent: 22px;
+    box-shadow: 2px 2px 2px rgba(85, 75, 75, 0.274);
+    
+
+}
+.youtube {
+    background-color: rgb(224, 20, 20);
+    color: white;
+    width: 50px;
+    height: 40px;
+    margin: 20px;
+    line-height: 40px;
+    border-radius: 10px;
+    text-indent: 27px;
+    box-shadow: 2px 2px 2px rgba(85, 75, 75, 0.274);
+    
+}
+
+.follow {
+    margin-bottom: 0px;
+}
+.membership {
+    width: 170px;
+    height: 40px;
+    border-style: solid;
+    line-height: 40px;
+    color:rgb(231, 174, 16);
+    border-radius: 10px;
+    text-indent: 13px;
+    border-width: 2px;
+    margin-bottom: 40px;
+    margin-left: 0px;
+}
+.indentbottom {
+    line-height: 3px;
+}
+.indent {
+    text-indent: 25px;
+}
+.headings {
+    color: rgb(57, 151, 214);
+}
